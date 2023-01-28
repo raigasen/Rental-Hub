@@ -1,0 +1,17 @@
+.carouselHomepage .item{
+  height: 800px;
+  width: 100%;
+  }
+
+  .carouselHomepage {
+    position:relative;
+}
+
+div.form-group {
+    position:absolute;
+    z-index:9999999;
+    top:50%; /* change to whatever you want */
+    left:42%; /* change to whatever you want */
+    right:auto; /* change to whatever you want */
+    bottom:auto; /* change to whatever you want */
+}
